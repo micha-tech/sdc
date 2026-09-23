@@ -149,8 +149,8 @@ function Brand() {
     <a href="#top" className="brand" aria-label="Signature DC Design Agency">
       <Image
         src="/signature-dc-logo-safe.png"
-        width={1160}
-        height={415}
+        width={1340}
+        height={543}
         alt="Signature DC Design Agency"
         priority
       />
